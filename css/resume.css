@@ -1,0 +1,47 @@
+body { 
+	background-color: #444;
+}
+.resume {
+	background-color: #fff;
+}
+.resume-header {
+	padding:10px;
+	background-color: #aaa;
+}
+
+.resume-header .name {
+	padding-top: 20px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.resume-header .info {
+	padding-top: 60px;
+	font-size: 1.4em;
+}
+
+.resume-header .vcard {
+	padding-top: 14px;
+}
+
+.resume-body {
+	padding:10px;
+}
+
+.resume-body .self-intro{
+	padding-top: 10px;
+	font-family: 'Courgette', cursive;
+	font-size: 1.2em;
+}
+
+.resume-body .skill-label{
+	color: #666;
+	font-weight: bold;
+}
+
+.resume-body .language-label{
+	color: #eee;
+}
+.seperator {
+	border-bottom: 2px solid #ddd;
+	margin: 10px 0 20px 0;
+}
