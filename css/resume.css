@@ -3,6 +3,8 @@ body {
 }
 .resume {
 	background-color: #fff;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 .resume-header {
 	padding:10px;
@@ -16,7 +18,7 @@ body {
 
 .resume-header .info {
 	padding-top: 60px;
-	font-size: 1.4em;
+	font-size: 1.4rem;
 }
 
 .resume-header .vcard {
@@ -27,21 +29,34 @@ body {
 	padding:10px;
 }
 
+.skills-section{
+	padding-top: 20px;
+	background-color: #ccc;
+}
+
 .resume-body .self-intro{
 	padding-top: 10px;
 	font-family: 'Courgette', cursive;
-	font-size: 1.2em;
+	font-size: 1.6rem;
 }
 
 .resume-body .skill-label{
 	color: #666;
 	font-weight: bold;
+	font-size: 1.2rem;
 }
 
 .resume-body .language-label{
 	color: #eee;
+	font-size: 1.4rem;
 }
+
+.resume-body .edu{
+	font-size: 1.4rem;
+}
+
 .seperator {
 	border-bottom: 2px solid #ddd;
-	margin: 10px 0 20px 0;
+	margin: 20px 0 10px 0;
 }
+
