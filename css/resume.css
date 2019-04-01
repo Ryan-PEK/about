@@ -1,5 +1,5 @@
 body { 
-	background-color: #444;
+	background-color: #666;
 }
 .resume {
 	background-color: #fff;
@@ -8,7 +8,7 @@ body {
 }
 .resume-header {
 	padding:10px;
-	background-color: #aaa;
+	background-color: #cdcdcd;
 }
 
 .resume-header .name {
@@ -17,7 +17,7 @@ body {
 }
 
 .resume-header .info {
-	padding-top: 60px;
+	padding-top: 40px;
 	font-size: 1.4rem;
 }
 
