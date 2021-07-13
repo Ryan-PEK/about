@@ -10,7 +10,7 @@
 .ro-timeline>li .ro-time span {
     display:block;
     text-align:left;
-    font-size:1.4rem;
+    font-size:1.6rem;
     font-weight:700;
     line-height:1.5;
     color:black
@@ -48,7 +48,7 @@
     background:#f6f6f6;
     color:black;
     padding:15px 15px 5px;
-    font-size:1.4rem;
+    font-size:1.6rem;
     line-height:1.8;
     position:relative;
     border-radius:4px
@@ -69,7 +69,7 @@
 .ro-timeline>li .ro-label span {
     float:right;
     font-weight:700;
-    font-size:1.4rem;
+    font-size:1.6rem;
     line-height:27px
 }
 .ro-timeline>li .ro-label:after {

@@ -1,5 +1,6 @@
 body { 
-	background-color: #666;
+	background-color: #AAA;
+	font-size: 1.4rem;
 	font-family:"Times New Roman",Georgia,Serif;
 }
 .resume {
@@ -19,7 +20,7 @@ body {
 
 .resume-header .info {
 	padding-top: 40px;
-	font-size: 1.4rem;
+	font-size: 1.6rem;
 }
 
 .resume-header .vcard {
@@ -38,22 +39,22 @@ body {
 .resume-body .self-intro{
 	padding-top: 10px;
 	font-family:"Times New Roman",Georgia,Serif;
-	font-size: 1.6rem;
+	font-size: 1.8rem;
 }
 
 .resume-body .skill-label{
 	color: #666;
 	font-weight: bold;
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 }
 
 .resume-body .language-label{
 	color: #eee;
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 }
 
 .resume-body .edu{
-	font-size: 1.4rem;
+	font-size: 1.8rem;
 }
 
 .separator {
